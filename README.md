@@ -1,1 +1,1 @@
-# word-press-with-RDS
+# Terraform-word-press-with-RDS
